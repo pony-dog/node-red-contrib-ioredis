@@ -1,0 +1,23 @@
+{
+  "name": "node-red-contrib-ioredis",
+  "version": "1.0.0",
+  "description": "Node-RED nodes to implement ioredis module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pony-dog/node-red-contrib-ioredis.git"
+  },
+  "keywords": [
+    "node-red",
+    "ioredis",
+    "redis"
+  ],
+  "author": "Maruthi Krishnappa",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/pony-dog/node-red-contrib-ioredis/issues"
+  },
+  "homepage": "https://github.com/pony-dog/node-red-contrib-ioredis#readme"
+}
